@@ -16,4 +16,5 @@
 @interface QQHelperMenu : NSObject
 + (instancetype)sharedInstance;
 - (void)addMenu;
+
 @end
